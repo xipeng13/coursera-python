@@ -55,7 +55,7 @@ Now we have our python environment all set up, we can start working on the assig
 
     jupyter notebook
 
-This should automatically open a tab in the default browser. To start with assignment 1, open the notebook `./Exercise1/exercise1.ipynb`. 
+This should automatically open a tab in the default browser. To start with assignment 1, open the notebook `./HW1/hw1.ipynb`. 
 
 ## Python Tutorials
 
